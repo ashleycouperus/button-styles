@@ -83,3 +83,16 @@ div {
   list-style-type: none;
   text-align: center;
 }
+
+.btn-subtle:hover {
+  background-color: #333;
+}
+
+.btn-ghost:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+.btn-warning:hover {
+  background-color: #933;
+}
